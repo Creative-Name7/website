@@ -1,9 +1,11 @@
-html {background-color: royalblue}
+html {background-color: cadetblue}
 h1,h2,p,p1 {
-  color: rgb(223, 171, 120);
+  color: wheat);
   font-family: "Anton", sans-serif;
   font-weight: normal;
 }
 .headerbar {
   background-color:  blueviolet;
+  outline: black solid 2px;
+  padding: 10px;
 }
