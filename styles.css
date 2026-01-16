@@ -1,5 +1,7 @@
 html {background-color: royalblue}
 h1,h2,p,p1 {
   color: rgb(223, 171, 120);
+  font-family: "Anton", sans-serif;
+  font-weight: normal;;
 }
 
