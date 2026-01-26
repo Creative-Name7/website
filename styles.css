@@ -1,7 +1,63 @@
-head {background-color: blueviolet}
-body {background-color: cadetblue}
-h1,h2,p,p1 {
+.headerbar {
+  background-color: salmon;
+  margin-left: 400px;
+  margin-right: 400px;
+  padding: 0px;
+  text-align: center;
+  font-size: 50px;
+  font-weight: normal;
+  border-start-end-radius: 50px;
+  border-end-end-radius: 50px;
+  border-end-start-radius: 50px;
+  border-start-start-radius: 50px;
+}
+body {
+  background-color: cadetblue;
+}
+.maintext {
+  background-color: salmon;
+  margin-left: 25px;
+  margin-right: 25px;
+  padding: 0px;
+  text-align: center;
+  font-size: 50px;
+  font-weight: normal;
+  border-start-end-radius: 50px;
+  border-end-end-radius: 50px;
+  border-end-start-radius: 50px;
+  border-start-start-radius: 50px;
+}
+h1,h2,h3,p,li{
   color: wheat;
   font-family: "Anton", sans-serif;
+}
+
+h2 {
+  text-align: center;
+  font-size: 70px;
+  padding: 0px;
+  margin: 0px;
+  padding-top: 25px;
   font-weight: normal;
+}
+
+h3 {
+  font-style: italic;
+  font-size: 30px;
+  font-weight: normal;
+  text-align: center;
+  padding: 0px;
+  margin: 0px;
+  padding-bottom: 25px;
+}
+
+li {
+    font-size: 25px;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.stigmaTitle {
+  padding-top: 50px;
 }
